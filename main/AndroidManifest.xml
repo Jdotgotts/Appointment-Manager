@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jackg.appointmentapp">
+    <uses-permission android:name ="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:configChanges="orientation|keyboardHidden"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".appointmentsActivity"/>
+        <activity android:name=".selectedDelete"/>
+        <activity android:name=".editAppointment"/>
+        <activity android:name=".selectedMove"/>
+        <activity android:name=".moveAppointment"/>
+        <activity android:name=".thesaurusList"/>
+        <activity android:name=".thesaurusChooseList"/>
+        <activity android:name=".searchActivity"/>
+        <activity android:name=".MainActivity">
+
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+
+</manifest>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout
+
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:text="Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/appointmentTitle" />
+
+    <EditText
+        android:id="@+id/titleTxt"
+        android:layout_width="fill_parent"
+        android:textColor="@color/fontColour"
+        android:layout_margin="10dp"
+        android:background="@color/textBackground"
+        android:layout_height="50dp"/>
+
+
+
+    <Button
+        android:id="@+id/searchBtn"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:text="@string/searchAppointmentTxt"
+        android:layout_height="50dp"/>
+
+
+
+
+
+
+</LinearLayout>
+</ScrollView>

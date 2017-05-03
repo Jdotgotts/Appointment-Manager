@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout
+
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:text="Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/appointmentTitle" />
+
+    <EditText
+        android:id="@+id/titleTxt"
+        android:layout_width="fill_parent"
+        android:textColor="@color/fontColour"
+        android:layout_margin="10dp"
+        android:background="@color/textBackground"
+        android:layout_height="50dp"/>
+    <TextView
+        android:text="Time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/timeTitle"
+        android:gravity="center" />
+
+    <EditText
+        android:id="@+id/timeTxt"
+        android:layout_margin="10dp"
+        android:textColor="@color/fontColour"
+        android:background="@color/textBackground"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"/>
+    <TextView
+        android:text="Details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/detailsTitle"
+        android:gravity="center" />
+
+    <EditText
+        android:id="@+id/detailsTxt"
+        android:layout_margin="10dp"
+        android:textColor="@color/fontColour"
+        android:layout_width="fill_parent"
+        android:background="@color/textBackground"
+        android:layout_height="50dp"
+        android:scrollbars="vertical"
+        android:scrollbarThumbVertical="@android:color/black"
+        android:scrollbarAlwaysDrawVerticalTrack="true" />
+
+
+    <Button
+        android:id="@+id/saveBtn"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:text="@string/saveAppointmentTxt"
+        android:layout_height="50dp"/>
+
+    <EditText
+        android:id="@+id/thesaurusTxt"
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="50dp"/>
+    <Button
+        android:id="@+id/thesaurusBtn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/thesaurusBtnText"
+        android:layout_margin="10dp"/>
+
+
+
+</LinearLayout>
+</ScrollView>

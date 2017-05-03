@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Appoinment manager</string>
+    <string name="searchTxt">Search</string>
+    <string name="moveAppointTxt">Move appointment</string>
+    <string name="delAppointmentTxt">Delete appointment</string>
+    <string name="viewEditTxt">View/Edit appointment</string>
+    <string name="createTxt">Create appointment</string>
+    <string name="saveAppointmentTxt">Save appointment</string>
+    <string name="delete_title">Delete</string>
+    <string name="deleteSelectedNum">Delete appointment</string>
+    <string name="deleteInstructions" >Please enter the number for the appointment you want to delete</string>
+    <string name="editInstructions">Please enter the number for the appointment you want to edit</string>
+    <string name="editSelectedNum">Edit appointment</string>
+    <string name="moveSelectedNum">Move appointment</string>
+    <string name="moveInstructions">Please enter the number for the appointment you want to move</string>
+    <string name="thesaurusBtnText">Thesaurus</string>
+    <string name="thesaurusBtnText2">Thesaurus 2</string>
+    <string name="searchAppointmentTxt">Search appointment</string>
+    <string name="searchSelectedNum">Check appointment</string>
+    <string name="searchInstructions">Please enter the number for the appointment you want to check</string>
+</resources>
