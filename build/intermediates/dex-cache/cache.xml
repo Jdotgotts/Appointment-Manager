@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9229e7f2400b3eb4eec68fe7b33dc2ac2115cd79">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2f139b4d90d414302eee250230078c1b2022d14f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_223fdfcabec7bd88171b26d0b9db1a8cef2a8207\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_0d46aca57821b4cda466019937be5a461dd1540e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_93e77a73da6afe6c654c8c8a841ae25f6cda71c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_9442e4da38bbdb1dac75118d665aa3ec3cc92e4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_c43d60dbd5290abe7009adccb0f6aa301b8a6bcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_7f715860779a7397604c4c4c05f2d680cd732e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_9dcc0636fc6ed950c5dd9b8f97447a40d12f2f71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_bcb8137a58c7414f1156b585314e0380d06eb796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9191f8977e2e0aa0305962e9ca474d8d1841492e">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7b78bb5b0ed9ba6add935c714fb7e92ca84180a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_21d2837702c9a4c4a83f96bc6cb2759931a90b9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\jackg\Desktop\AppointmentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_d542aec4241ce916b24ef5dd3196cbe7569657cd\classes.dex" />
+    </item>
+
+</items>
